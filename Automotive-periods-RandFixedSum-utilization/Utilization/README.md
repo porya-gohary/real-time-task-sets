@@ -1,3 +1,5 @@
+# Configuration:
+
 - Periods => Automotive Benchmark
 - Utilization => RandFixedSum
 
