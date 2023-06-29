@@ -1,0 +1,4 @@
+Task ID,Job ID,Arrival min,Arrival max,Cost min,Cost max,Deadline,Priority
+0,0,0,100,1249,2081,15000,0
+1,0,0,100,2703,4505,15000,1
+2,0,0,100,1449,2414,15000,2
